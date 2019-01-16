@@ -1,0 +1,41 @@
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+.unimportant p a{
+  color: red;
+}
+.sidebar{
+  width: 30%;
+  float: left;
+  background-color: yellow;
+}
+img{
+  float: center;
+}
+
+.column{
+  width: 350px;
+  float: left;
+}
+.border{
+  border: 3px solid green;
+  padding: 4px;
+  marigin: 12px;
+}
+.backgroundone{
+  color: lightgreen;
+}
+.backgroundtwo{
+  color: Tomato;
+  font-style: italic;
+}
+.backgroundthree{
+  color: violet;
+}
+.body{
+  font-style: sans-serif;
+}
